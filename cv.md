@@ -17,7 +17,11 @@
 **Навыки и умения**
 ===
 
-* HTML* CSS * JavaScript* Gulp* Git, GitHub, GitLab
+* HTML
+* CSS 
+* JavaScript
+* Gulp
+* Git, GitHub, GitLab
 
 **Примеры кода**
 ===
